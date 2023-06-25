@@ -1,0 +1,11 @@
+figure {
+  border: 1px #cccccc solid;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+figcaption {
+  font-style: italic;
+  padding: 2px;
+  text-align: left;
+}
